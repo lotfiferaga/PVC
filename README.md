@@ -38,6 +38,6 @@ le cas symétrique (le poids de l’arc du sommet X vers Y est égal au poids de
 et le cas asymétrique (le poids de l’arc du sommet X vers Y peut être différent du poids de l’arc du sommet Y vers X).
 
 # Méthodes de résolution
-![alt text](https://github.com/dylanswift2018/PVC/blob/master/img/a.png?raw=true)
+![alt text](https://github.com/dylanswift2018/PVC/blob/master/a.png?raw=true)
 # Méthodes exactes
 # Méthodes approchées
