@@ -44,3 +44,6 @@ et le cas asymétrique (le poids de l’arc du sommet X vers Y peut être diffé
 ## Résultat
 ![alt text](https://github.com/dylanswift2018/PVC/blob/master/img/c.PNG?raw=true)
 # Méthodes approchées
+# Conclusion 
+Le problème du voyageur de commerce est toujours d’actualité dans la recherche en informatique, étant donné le nombre important de problèmes réels auxquels il correspond. 
+Les problèmes dérivés et les extensions en sont très nombreux.
