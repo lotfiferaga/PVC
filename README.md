@@ -40,4 +40,7 @@ et le cas asymétrique (le poids de l’arc du sommet X vers Y peut être diffé
 # Méthodes de résolution
 ![alt text](https://github.com/dylanswift2018/PVC/blob/master/img/a.PNG?raw=true)
 # Méthodes exactes
+![alt text](https://github.com/dylanswift2018/PVC/blob/master/img/b.PNG?raw=true)
+Résultat
+![alt text](https://github.com/dylanswift2018/PVC/blob/master/img/c.PNG?raw=true)
 # Méthodes approchées
