@@ -13,7 +13,7 @@ ou du moins une solution de bonne qualité.
 
 # Représentation du problème
 
-Exemple de graphe à 4 sommets. ![alt text](![image](https://user-images.githubusercontent.com/43786211/112902743-7d0bd900-90de-11eb-811a-af94a2e9bb1c.png))
+Exemple de graphe à 4 sommets. ![alt text](https://user-images.githubusercontent.com/43786211/112902743-7d0bd900-90de-11eb-811a-af94a2e9bb1c.png)
 
 Le problème du voyageur de commerce peut être modélisé à l’aide d’un graphe constitué d’un ensemble de sommets et d’un ensemble d’arêtes. 
 Chaque sommet représente une ville, une arête symbolise le passage d’une ville à une autre, et on lui associe un poids pouvant représenter une distance,
